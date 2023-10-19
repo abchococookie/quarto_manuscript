@@ -68,5 +68,3 @@ avg_years_between_eruptions
 ## Discussion
 
 ## References
-
-
